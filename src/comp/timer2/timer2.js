@@ -1,0 +1,1 @@
+export const timer2 = (time) => time.toString().padStart(2, '0');
